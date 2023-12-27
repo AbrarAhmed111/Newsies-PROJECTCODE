@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 30,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "The most popular video game you've never heard of, Warframe, is made in London, Ont. | CBC News",
+            "description": "The online multiplayer action game made by Digital Extremes, which is headquartered in London, Ont., is buoyed by a dedicated fan base from around the world. Thousands celebrated the game’s 10th anniversary at its TennoCon convention last weekend.",
+            "url": "http://www.cbc.ca/news/entertainment/warframe-tennocon-1.6953183",
+            "urlToImage": "https://i.cbc.ca/1.6953250.1693513485!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/warframe-whispers-in-the-walls-update.jpg",
+            "publishedAt": "2023-09-02T08:07:19.2460019Z",
+            "content": "Warframe isn't the type of video game to dominate the news. In fact, even some gamers might not have heard of it.\r\nBut the online multiplayer action game made by Digital Extremes, headquartered in Lo… [+5050 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hollywood actors union eyes video game strike",
+            "description": "If authorised, it would mean SAG members would be striking against TV, film and video game firms.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66689283",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/60B4/production/_130965742_gettyimages-1651091085.jpg",
+            "publishedAt": "2023-09-02T05:37:15.8081197Z",
+            "content": "The union representing actors in the US is looking to authorise a second strike against major video game companies.\r\nTalks between SAG-AFTRA and companies like Activision and Electronic Arts have rea… [+2120 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Shooting at Louisiana high school football game kills 1 person and wounds another, police say",
+            "description": "Police in Louisiana say a shooting during halftime of a high school football game left one victim dead and another wounded",
+            "url": "https://abcnews.go.com/US/wireStory/shooting-louisiana-high-school-football-game-kills-1-102878811",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2023-09-02T04:19:09Z",
+            "content": "PORT ALLEN, La. -- A shooting during halftime of a high school football game Friday night in Louisiana left one teen dead and a man wounded, police said.\r\nThe shooting at Port Allen High School near … [+597 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Ohio State to take on Indiana in Week 1 of college football",
+            "description": "Football Saturdays are back in the U.S. A full slate of games kicks off at noon Eastern time featuring most of college football's top 25 teams. Shehan Jeyarajah, college football writer for CBS Sports HQ, joins to discuss what fans can expect from the Buckeye…",
+            "url": "https://www.cbsnews.com/video/ohio-state-indiana-week-1-college-football/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/02/3a26f7b1-e263-4f6d-aa5e-0f97fe004239/thumbnail/1200x630/1eaca56b78806f1e6bd288d99d3349d5/cbsn-fusion-ohio-state-indiana-week-1-college-football-thumbnail-2258623-640x360.jpg?v=bd30f47a894d621fb3691fc64d1442e9",
+            "publishedAt": "2023-09-02T00:39:01+00:00",
+            "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Marc McLaren",
+            "title": "Quordle today - hints and answers for Saturday, September 2 (game #586)",
+            "description": "Our clues will help you solve Quordle today and keep that streak going",
+            "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-2-september-2023",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1200-80.jpg",
+            "publishedAt": "2023-09-01T23:15:00Z",
+            "content": "Quordle needs to be approached in a different way to Wordle. With four puzzles to solve in nine guesses, you can't blindly throw letters at it and expect to win - you'll stand a far better chance if … [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Skip Bayless on Colorado's opener vs. TCU: 'I don't bet against Deion Sanders'",
+            "description": "Colorado faces a steep challenge with a season-opening game against TCU. Skip Bayless explains why he won't be betting against Coach Prime.",
+            "url": "http://www.foxsports.com/stories/college-football/colorado-faces-tough-challenge-vs-tcu-but-dont-bet-against-deion-sanders",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/09/1408/814/09.01.23_Prime-Feature_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-09-01T21:48:57Z",
+            "content": "The \"Coach Prime\" era officially begins for Colorado on Saturday as the Buffaloes will start their 2023 season as 20.5-point underdogs on the road against last year's national runner-up TCU (coverage… [+3907 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Bowen strikes again as Luton lose first home game",
+            "description": "West Ham continue their strong start and remain unbeaten as Jarrod Bowen grabs his third goal of the season.",
+            "url": "http://www.bbc.co.uk/sport/football/66612700",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/9F3E/production/_130966704_gettyimages-1637887101.jpg",
+            "publishedAt": "2023-09-01T21:22:18.1132013Z",
+            "content": "Jarrod Bowen's goal extended West Ham's winning run to three in the Premier League\r\nJarrod Bowen continued his fine start to the season to help West Ham to a victory at Luton that puts them top of th… [+4184 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Matthias Kreienbrink",
+            "title": "Von KI-Pornos und einem neuen Bösewicht in der Games-Industrie",
+            "description": "Hallo und willkommen zum t3n Daily vom 1. September. Heute geht es um KI, die Pornographie revolutionieren kön",
+            "url": "https://t3n.de/news/von-ki-pornos-und-einem-neuen-boesewicht-in-der-games-industrie-1573796/",
+            "urlToImage": "https://t3n.de/news/wp-content/uploads/2023/09/shutterstock_2103954560.jpg",
+            "publishedAt": "2023-09-01T15:00:35Z",
+            "content": "Wir hoffen, du hattest einen guten Tag, und wollen dir jetzt noch ein paar spannende Informationen mit auf den Weg in den Abend geben. t3n Daily gibt es auch als Newsletter. Hier kommen die Themen de… [+1647 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kevin Nguyen",
+            "title": "Revisiting Battle Royale, the Japanese inspiration of The Hunger Games and Fortnite",
+            "description": "Twenty years later, you can still see the bloody fingerprints of one violent Japanese film on pop culture today. Kinji Fukasaku cult hit streams this month on the Criterion Channel.",
+            "url": "http://www.theverge.com/23851408/battle-royale-revisited-hunger-games-fortnite-squid-game-criterion",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/spUrTxlOBYsHVSk1V82qKW22cAc=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24882647/BATTLE_ROYALE_fg_33839_0067_Layer_98.jpg",
+            "publishedAt": "2023-09-01T13:00:00Z",
+            "content": "Twenty years later, you can still see the bloody fingerprints of one violent Japanese film on pop culture today.\r\nByKevin Nguyen, a features editor at The Verge, where he publishes award-winning stor… [+5460 chars]"
+        },
+        {
+            "source": {
+                "id": "il-sole-24-ore",
+                "name": "Il Sole 24 Ore"
+            },
+            "author": null,
+            "title": "Forum Ambrosetti. Mattarella sulla Ue: sfide complesse, migliorare i trattati",
+            "description": "Il presidente ucraino Zelensky è intervenuto in collegamento video. Il presidente della Repubblica ha inviato un messaggio",
+            "url": "https://www.ilsole24ore.com/art/zelensky-soluzione-militare-o-diplomatica-liberare-crimea-ue-mattarella-sfide-complesse-migliorare-trattati-AFF2XLi",
+            "urlToImage": "https://i2.res.24o.it/images2010/2023/09/AFF2XLi/images/58f6ee50-48a2-11ee-8a82-d0e930e5957a-fotohome0.jpg",
+            "publishedAt": "2023-09-01T08:48:46Z",
+            "content": "Il gotha di economia, finanza e politica, si è ritrovato anche questanno al Forum Ambrosetti, in riva al lago di Como, per discutere sulle sfide globali del futuro. Dopo lopening speech di Valerio De… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+            "author": "Dan Rosen",
+            "title": "NHL considering more unique destinations after Global Series -- Melbourne",
+            "description": "As the NHL continues its final preparations to bring teams to the Southern Hemisphere for the first time in September, it is already considering other unique international cities that could host preseason games in future seasons, NHL Deputy Commissioner Bill …",
+            "url": "https://www.nhl.com/news/nhl-considering-more-unique-destinations-after-australia/c-345683814",
+            "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/343354742/1024x576/cut.jpg",
+            "publishedAt": "2023-09-01T04:00:00Z",
+            "content": "STOCKHOLM -- As the NHL continues its final preparations to bring teams to the Southern Hemisphere for the first time in September, it is already considering other unique international cities that co… [+2807 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Michael McWhertor",
+            "title": "Street Fighter 6’s AKI gets a release date, slithery new gameplay",
+            "description": "FANG student AKI joins the Street Fighter 6 roster as DLC on Sept. 27. A new gameplay video from Capcom shows the snake/poison themed fighter in action.",
+            "url": "https://www.polygon.com/23854232/street-fighter-6-aki-gameplay-release-date-slither",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/h937XgHVnssDxg-WovQcLNfoVDo=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24887766/Street_Fighter_6___A.K.I._Gameplay_Trailer_0_25_screenshot.jpg",
+            "publishedAt": "2023-08-31T19:15:32Z",
+            "content": "The slithery AKI joins the Street Fighter 6 roster next month"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The Lemurian Vampire DLC launches for The Case of the Golden Idol",
+            "description": "A new three-case expansion was released Aug. 31 for The Case of the Golden Idol on PC, Mac, and Switch. There’s also a new browser-based demo for the game.",
+            "url": "https://www.polygon.com/23852284/case-golden-idol-dlc-lemurian-vampire-demo-browser",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/lAvbpCeoP_Aw-imrxQLh_U2EIAw=/0x40:2048x1112/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24884884/lemurianvampire_uncropped.jpg",
+            "publishedAt": "2023-08-31T14:00:00Z",
+            "content": "Plus, you can now try the game for free in your browser"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Michael Cohen, RJ Young, Bryan Fischer",
+            "title": "Colorado vs. TCU, Texas vs. Rice, more we're watching in Week 1",
+            "description": "Our college football experts share what they're looking for in Deion Sanders' Colorado debut, Texas' opener, and other top Week 1 games.",
+            "url": "http://www.foxsports.com/stories/college-football/colorado-vs-tcu-texas-vs-rice-more-were-watching-in-week-1",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/08.30.23_Roundtable_Week-1_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-31T13:59:35Z",
+            "content": "All eyes will be on Deion Sanders on Saturday when he makes his debut as head coach at Colorado and leads his Buffaloes against No. 17 TCU.\r\nAnd while some coaches might feel pressure under such inte… [+21616 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "2023 College Football Picks: Week 1 Predictions for Every Game",
+            "description": "After a lovely seven-game schedule kicked off the 2023 college football season, the first weekend of September is filled with matchups. Beginning on Thursday…",
+            "url": "https://bleacherreport.com/articles/10087524-2023-college-football-picks-week-1-predictions-for-every-game",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/x_190,y_85,w_1602,h_1069,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1693239657/qyu3ynu7cmbbomdu6dem.jpg",
+            "publishedAt": "2023-08-31T11:00:00Z",
+            "content": "Cameron WardAP Photo/Young Kwak\r\nMonmouth at Florida Atlantic, 6 p.m. ETPrediction: FAU 52, Monmouth 7\r\nAlbany at Marshall, 6 p.m. ETPrediction: Marshall 42, Albany 10\r\nBucknell at James Madison, 6 p… [+2707 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Nick Romano",
+            "title": "<em>The Last of Us</em> showrunner on his favorite Easter eggs — and the <em>Chernobyl</em> nod in the video games",
+            "description": "Craig Mazin walks EW through some of the big Easter eggs of season 1.",
+            "url": "https://ew.com/the-awardist-podcast/the-last-of-us-easter-eggs-craig-mazin-awardist/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C134%2C2000%2C1134&poi=%5B900%2C493%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F08%2F25%2Fawardist-podcast-AUG28-2000.jpg",
+            "publishedAt": "2023-08-30T04:55:52Z",
+            "content": "Craig Mazin, who showruns HBO's The Last of Us with game creator Neil Druckmann, is amazed at how many of the small details fans have already picked up on. In fact, he believes they've found all the … [+3052 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Michael McWhertor",
+            "title": "Nintendo Direct August 2023: When it starts and how to watch",
+            "description": "Switch game Super Mario Bros. Wonder gets the spotlight in a new Nintendo Direct live on Aug. 31. Here’s when today’s Nintendo Direct starts and where to watch.",
+            "url": "https://www.polygon.com/23850429/nintendo-direct-2023-august-switch-super-mario-wonder",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/CWMdRt995C8VOZJLPlGSfoW_hOA=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24741178/super_mario_bros_wonder_artwork.jpg",
+            "publishedAt": "2023-08-29T14:15:00Z",
+            "content": "Marios new Switch game gets the spotlight in a new Nintendo showcase"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Erika Watts",
+            "title": "Digital puzzle games may help improve memory in older adults, study finds",
+            "description": "Older adults who play digital puzzle games may have improved working memory and concentration abilities equivalent to younger adults in their 20s, a study indicates.",
+            "url": "http://www.medicalnewstoday.com/articles/could-digital-puzzle-games-help-improve-memory",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/08/Digital_puzzle_Stocksy_txpea4af47fjql300_Medium_2430260_Thumb.jpg",
+            "publishedAt": "2023-08-22T18:01:55Z",
+            "content": "<ul><li>Researchers recently conducted a study to see how playing different types of video games impacts memory capabilities in both younger and older adults. </li><li>They compared how well they per… [+6897 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "April Rubin",
+            "title": "Over-the-counter birth control is a post-Roe \"game-changer\"",
+            "description": "People can get birth control with a doctor's or pharmacist's prescription. Soon, they won't need one.",
+            "url": "https://www.axios.com/2023/07/13/birth-control-prescribed-pharmacists",
+            "urlToImage": "https://images.axios.com/8m83O-Q1aQbk9ybm6p7oohFKPu8=/0x0:1920x1080/1366x768/2023/07/13/1689273042951.jpg",
+            "publishedAt": "2023-07-13T19:16:26Z",
+            "content": "The most commonly prescribed contraceptive in America is getting easier to access, if you can afford it or live in the right state.\r\nWhy it matters: The role of of contraception has become more vital… [+2504 chars]"
+        },
+        {
+            "source": {
+                "id": "ansa",
+                "name": "ANSA.it"
+            },
+            "author": "ANSA.it",
+            "title": "Ue, 'ricevuta richiesta di modifica Pnrr sulla quarta rata' - Ultima Ora",
+            "description": "\"Confermiamo di aver ricevuto la proposta di revisione mirata del piano dell'Italia, relativa a 10 misure nell'ambito della quarta richiesta di pagamento. (ANSA)",
+            "url": "http://www.ansa.it/sito/notizie/topnews/2023/07/11/ue-ricevuta-richiesta-di-modifica-pnrr-sulla-quarta-rata_0a878089-0ee9-4b88-bc67-01f22ffc3fed.html",
+            "urlToImage": "https://www.ansa.it/webimages/img_700/2022/12/14/b5c5b6ffc9b7856df9da44dc67fe69af.jpg",
+            "publishedAt": "2023-07-11T17:24:00Z",
+            "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all’abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad … [+320 chars]"
+        }
+    ]
+}
